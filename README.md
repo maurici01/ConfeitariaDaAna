@@ -1,6 +1,6 @@
 # ConfeitariaDaAna
 
-O projeto em HTML e CSS utilizando o framework Semantic UI foi desenvolvido na disciplina de Programação WEB.
+O projeto Confeitaria Da Ana foi desenvolvido em HTML e CSS utilizando o framework Semantic UI foi desenvolvido na disciplina de Programação WEB.
 
 Tal projeto foi desenvolvido para fazer com que os alunos aprendessem o conceito basico de o que é um framework e como utiliza-lo, visando o contato inicial os alunos não puderam se aprofundar em assuntos e metodologias que ainda não foram aplicadas nas aulas, afim de não gerar duvidas avançadas para os colegas de sala que ainda não possuem tal conhecimento.
 
