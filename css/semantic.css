@@ -2904,6 +2904,7 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
+  font-family: 'Sofia';
 }
 
 .ui.green.button {
